@@ -4,6 +4,8 @@
 
 該計數技術可利用固定空間與長期時間進行生態分析，例如：本團隊於綠島的石朗潛水區進行CUC進行資料驗證，2022/03進行資料蒐集，又於2022/06進行資料蒐集，相隔3個月，計算相同區域的生物數量是否增減，若遞減其原因有可能梅雨季節的大量雨水導致沿岸地區鹽度下降所致，若遞增則有可能為該生物之捕食者離開該區域等眾多因素，因此本技術(CUC)為關鍵技術之一，還須搭配環境數據(分析鹽度、溶氧、pH值等數據長時間變化)、專家知識(生物、氣象、水質、地質等專業知識)及大數據分析才可完成水下生態分析。
 
+
+
 #Demo
 
 https://user-images.githubusercontent.com/106044709/170942766-07eaf8e4-596d-4931-95e8-cc9924fc5abe.mp4
@@ -18,6 +20,10 @@ https://user-images.githubusercontent.com/106044709/170942766-07eaf8e4-596d-4931
 This work was supported in part by the AI Research Center (AIRC), National Taiwan Ocean University, and in part by the Ministry of Science and Technology of Taiwan (MOST) AI Biomedical Research Center under Grant MOST 110-2634-F-019-002-, and Grant MOST 110-2221-E-019-062-.
 
 此為水下生物計數與偵測技術開發結果(持續更新中)
+
+目前偵測器使用Faster RCNN(正在驗證 YOLOv5 與 EfficientDET，完成之後將更新至此)
+
+
 
 軟硬體設備：
 
