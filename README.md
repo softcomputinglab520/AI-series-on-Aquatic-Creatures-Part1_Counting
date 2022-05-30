@@ -1,4 +1,5 @@
 #introduction
+
 本技術為水下生物計數，該技術為水下生態分析之基礎技術之一
 
 水下生物計數可透過不同的生物訓練資料進行計數，目前版本僅提供龍蝦
@@ -9,10 +10,7 @@
 
 #Demo
 
-
 https://user-images.githubusercontent.com/106044709/170942766-07eaf8e4-596d-4931-95e8-cc9924fc5abe.mp4
-
-
 
 
 本技術所屬國立臺灣海洋大學之人工智慧中心(NTOU-AIRC)與科技部(MOST)
