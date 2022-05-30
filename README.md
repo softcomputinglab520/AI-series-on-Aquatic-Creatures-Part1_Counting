@@ -17,13 +17,20 @@ https://user-images.githubusercontent.com/106044709/170942766-07eaf8e4-596d-4931
 
 本技術所屬國立臺灣海洋大學之人工智慧中心(NTOU-AIRC)與科技部(MOST)
 
-This work was supported in part by the AI Research Center (AIRC), National Taiwan Ocean University, and in part by the Ministry of Science and Technology of Taiwan (MOST) AI Biomedical Research Center under Grant MOST 110-2634-F-019-002-, and Grant MOST 110-2221-E-019-062-.
-
 此為水下生物計數與偵測技術開發結果(持續更新中)
 
 目前偵測器使用Faster RCNN(正在驗證 YOLOv5 與 EfficientDET，完成之後將更新至此)
 
+This technology is CUC, which is one of the basic technologies of Marine Ecological Environment analysis.
 
+The CUC can be counted through different creature training data, this version only provides lobster
+
+This work was supported in part by the AI Research Center (AIRC), National Taiwan Ocean University, and in part by the Ministry of Science and Technology of Taiwan (MOST) AI Biomedical Research Center under Grant MOST 110-2634-F-019-002-, and Grant MOST 110-2221-E-019-062-.
+
+
+This is the result of the development of CUC and Detector technology (continuously updated)
+
+Detector uses Faster RCNN (will update YOLOv5 and EfficientDET)
 
 軟硬體設備：
 
