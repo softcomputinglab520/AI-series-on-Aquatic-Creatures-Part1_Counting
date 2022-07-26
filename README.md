@@ -1,25 +1,13 @@
 #introduction
 
-臺灣自古依山傍水，至少從十六世紀開始臺灣人民大部分靠海維生，至今臺灣則是漁業大國，因此自古以來過度捕撈近海，導致近海無魚，而現今臺灣成為遠洋捕撈霸主，原因有三，一、近海無魚，二、科技進步，三、生態保育；臺灣海岸線佔全球海岸線1/400，魚類物種則佔1/10，資源極為豐厚，而本團隊所開發技術，為保育海洋生態枯竭所開發。
+Taiwan has been surrounded by mountains and rivers since ancient times. Since at least the 16th century, most of the Taiwanese people have relied on the sea for their livelihood. Today, Taiwan is a big fishing country. Therefore, since ancient times, the coastal waters have been overfished, resulting in no fish in the coastal waters. Today, Taiwan has become the overlord of ocean fishing. There are three, one, no fish in the offshore area, two, technological progress, and three, ecological conservation; Taiwan's coastline accounts for 1/400 of the world's coastline, and fish species account for 1/10, and the resources are extremely rich. The technology developed by this team is for the conservation of marine ecology. developed by exhaustion.
 
-該計數技術可利用固定空間與長期時間進行生態分析，例如：本團隊於綠島的石朗潛水區進行CUC進行資料驗證，2022/03進行資料蒐集，又於2022/06進行資料蒐集，相隔3個月，計算相同區域的生物數量是否增減，若遞減其原因有可能梅雨季節的大量雨水導致沿岸地區鹽度下降所致，若遞增則有可能為該生物之捕食者離開該區域等眾多因素，因此本技術(CUC)為關鍵技術之一，還須搭配環境數據(分析鹽度、溶氧、pH值等數據長時間變化)、專家知識(生物、氣象、水質、地質等專業知識)及大數據分析才可完成水下生態分析。
-
-
+This counting technology can use fixed space and long-term time for ecological analysis. For example, the team conducted data verification by CUC in the Shilang diving area of ​​Green Island, collected data in 2022/03, and collected data in 2022/06, separated by 3 Monthly, calculate whether the number of organisms in the same area increases or decreases. If the decrease is caused by a large amount of rain in the rainy season, the salinity of the coastal area decreases. If it increases, it may be due to many factors such as the predators of the organism leaving the area. , so this technology (CUC) is one of the key technologies, and it must also be matched with environmental data (analyzing long-term changes in salinity, dissolved oxygen, pH value and other data), expert knowledge (biology, meteorology, water quality, geology and other professional knowledge) and Only big data analysis can complete underwater ecological analysis.
 
 #Demo
 
 https://user-images.githubusercontent.com/106044709/170942766-07eaf8e4-596d-4931-95e8-cc9924fc5abe.mp4
 
-
-本技術為水下生物計數，該技術為水下生態分析之基礎技術之一
-
-水下生物計數可透過不同的生物訓練資料進行計數，目前版本僅提供龍蝦
-
-本技術所屬國立臺灣海洋大學之人工智慧中心(NTOU-AIRC)與科技部(MOST)
-
-此為水下生物計數與偵測技術開發結果(持續更新中)
-
-目前偵測器使用Faster RCNN(正在驗證 YOLOv5 與 EfficientDET，完成之後將更新至此)
 
 This technology is CUC, which is one of the basic technologies of Marine Ecological Environment analysis.
 
@@ -32,19 +20,13 @@ This is the result of the development of CUC and Detector technology (continuous
 
 Detector uses Faster RCNN (will update YOLOv5 and EfficientDET)
 
-軟硬體設備：
 
-軟體：
+Environments：
 
 Py3.6 
-
 tensorflow 1.14
-
 CUDA 10.2
-
 cuDNN 7.6
-
-硬體：
 
 i9-9900
 
