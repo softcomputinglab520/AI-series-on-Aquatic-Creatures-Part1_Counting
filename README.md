@@ -10,6 +10,23 @@ the vicinity of coral reefs.
 This project using AI object detector to 
 detect the aquatic creatures, then counting the detected creature.
 
+## Models
+The Models must be [downloaded](https://drive.google.com/drive/folders/13BjuVBc6bTYutdx1YoeEtNK8MGj6jYbF?usp=sharing) and placed in the following path.
+````
+─ .idea
+─ faster_rcnn/
+    ├ lobster.pb
+    └ ...
+─ protos
+─ utils
+─ videos
+─ yolov4/
+    ├ lobster.weights
+    └ ...
+─ yolov4API
+─ ...
+````
+
 ## Environment
 <ul>
 <li>python >= 3.6.9</li>
