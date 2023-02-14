@@ -12,20 +12,20 @@ detect the aquatic creatures, then counting the detected creature.
 
 ## Models
 The Models must be [downloaded](https://drive.google.com/drive/folders/13BjuVBc6bTYutdx1YoeEtNK8MGj6jYbF?usp=sharing) and placed in the following path.
-````
+<pre>
 ─ .idea
 ─ faster_rcnn/
-    ├ lobster.pb
+    ├ <b>lobster.pb</b>
     └ ...
 ─ protos
 ─ utils
 ─ videos
 ─ yolov4/
-    ├ lobster.weights
+    ├ <b>lobster.weights</b>
     └ ...
 ─ yolov4API
 ─ ...
-````
+</pre>
 
 ## Environment
 <ul>
